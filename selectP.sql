@@ -1,0 +1,1 @@
+SELECT * FROM Products WHERE counts>0;
